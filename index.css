@@ -12,15 +12,17 @@ header {
 	background-color: #666666;	
 }
 #wrapper {
-	height: 115px;
 	margin: 0 auto;
-	width: 900px;
-	margin-top: 0px;
+	max-width: 900px;
+	margin-top: 140px;
+	margin-bottom: 140px;
 }
 nav {
 	padding-top: 42px;
 	list-style: none;
 	text-align: center;
+}
+#content {margin: 0 auto
 }
 nav > ul {
 	list-style-type: none;
