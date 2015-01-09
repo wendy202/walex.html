@@ -1,0 +1,66 @@
+body {
+	margin: 0;
+
+	}
+}
+#wrapper {
+	margin: 0 auto;
+	max-width: 900px;
+	margin-top: 140px;
+	margin-bottom: 140px;
+}
+nav {
+	padding-top: 42px;
+	list-style: none;
+	text-align: center;
+}
+
+.boxed {
+  border: 1px solid green ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+	margin: 0 auto;
+	height: 115px;
+	width: 100%;
+	z-index: 9997;
+	position: fixed;
+	bottom: 0;
+	display: block; 
+	background-color: #666666;
+}
